@@ -1,0 +1,27 @@
+.model-3 {
+    font-family: Tahoma;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.order-online {
+    font-family: Tahoma;
+    font-size: 16px;
+    text-align: center;
+}
+
+.order {
+    font-family: Tahoma;
+    font-size: 16px;
+    margin-top: 8px;
+    display: inline-block;
+}
+
+.thuch-less {
+    font-family: Tahoma;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+}

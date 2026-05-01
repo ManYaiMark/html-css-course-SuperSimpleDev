@@ -1,0 +1,30 @@
+    .request-now-1 {
+    background-color: #000000;
+    width: 130px;
+    height: 40px;
+    color: white;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border: none;
+}
+    .request-now-1:hover {
+    background-color: #333333;
+    }
+
+    
+    .request-now-2 {
+    background-color: #000000;
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 26px;
+    padding-right: 26px;
+    border: none;
+
+    }
+
+    .request-now-2:hover {
+        background-color: #333333;
+    }
