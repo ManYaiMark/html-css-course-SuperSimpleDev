@@ -1,0 +1,30 @@
+body {
+    font-family: arial;
+}
+
+.email {
+    font-size: 10px;
+    opacity: 0.7;
+    margin-bottom: 5px;
+}
+.email-input {
+    width: 300px;
+    padding: 5px;
+    border: 1px solid rgb(80, 78, 78);
+    border-radius: 5px;
+}
+.policy {
+    font-size: 12px;
+    opacity: 0.8;
+    /* color: rgb(38, 38, 38); */
+    margin-top: 10px;
+}
+.agree {
+    background-color: rgb(31, 110, 237);
+    width: 300px;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
