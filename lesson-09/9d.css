@@ -1,0 +1,25 @@
+.youtube-background {
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 270px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+p {
+    font-family: arial;
+}
+.install-text {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.text-add-youtube {
+    color: rgb(151, 151, 151);
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,12 @@
+.div-border {
+    width: 300px;
+    /* height: 100px; */
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.our-service {
+    margin-top: 0;
+}
