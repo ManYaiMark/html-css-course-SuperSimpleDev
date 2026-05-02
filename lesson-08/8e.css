@@ -1,0 +1,49 @@
+.request-ride {
+    font-family: arial;
+    font-size: 26px;
+
+}
+
+.input-pickup-location {
+    display: block;
+    width: 280px;
+    padding: 10px 10px ;
+    padding-left: 15px;
+    margin-bottom: 5px;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.1);
+    /* color: rgb(109, 109, 109); */
+}
+
+.input-destination {
+    display: block;
+    width: 280px;
+    padding: 10px 10px;
+    padding-left: 15px;
+    margin-bottom: 30px;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.1);
+    /* color: white; */
+}
+
+.btn-request-now {
+    /* width: 100px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+.btn-schedule {
+    /* width: 100px; */
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    
+}
