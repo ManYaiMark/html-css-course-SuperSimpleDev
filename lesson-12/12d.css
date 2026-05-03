@@ -1,0 +1,21 @@
+.flex-box-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border: solid black;
+    border-width: 1px;
+    height: 50px;
+
+}
+
+.flex-box-left {
+    background-color: lightpink;
+    /* width: 50px; */
+}
+
+
+.flex-box-right {
+    background-color: lightpink;
+    /* width: 75px; */
+}

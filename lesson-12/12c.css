@@ -1,0 +1,26 @@
+.flex-box-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: solid black;
+    border-width: 1px;
+}
+
+.flex-box-left {
+    background-color: lightpink;
+    /* width: 50px; */
+}
+
+.flex-box-middle {
+    background-color: lightpink;
+    /* flex: 1; */
+}
+
+.flex-box-right {
+    background-color: lightpink;
+    /* width: 75px; */
+}
+.flex-box-end {
+    background-color: lightpink;
+    /* width: 75px; */
+}
