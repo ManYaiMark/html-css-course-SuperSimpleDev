@@ -1,0 +1,24 @@
+.flex-box {
+    display: flex;
+}
+
+.flex-box-item1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 50px;
+    background-color: lightpink;
+}
+
+.flex-item1 {
+    background-color: black;
+    color: white;
+}
+
+.flex-box-item2 {
+
+    width: 200px;
+    height: 50px;
+    background-color: lightblue;
+}
