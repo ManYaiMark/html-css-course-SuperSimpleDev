@@ -48,22 +48,17 @@ div {
     border-width: 1.5px;
     border-radius: 10px;
     align-items: center;
+    overflow: hidden;
+
 }
 
 .sample {
-    /* width: 100px;
-    height: 100px; */
-    /* padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 50px;
-    padding-bottom: 50px; */
-    align-self: stretch;  
+    /* align-self: stretch;   */
     width: 100px;         
-    min-height: 80px; 
+    height: 100px;
+    /* min-height: 80px;  */
     background-color:lightgray;
     margin-right: 10px;
-    border-top-left-radius: 6px;
-    border-bottom-left-radius: 6px;
 }
 
 .link-info {
