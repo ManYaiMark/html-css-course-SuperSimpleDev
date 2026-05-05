@@ -1,0 +1,42 @@
+body { font-family: Arial; }
+
+.window {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-sidebar {
+    background-color: rgb(11, 161, 59); 
+    position: fixed;
+    right: 0px;
+    top: 0px;bottom: 0px; 
+    color: white;  
+    width: 100px;
+}
+
+.modal-title {
+    background-color: white;
+    width: 300px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 12px;
+}
+
+.sub-name {
+    margin-bottom: 12px;
+}
